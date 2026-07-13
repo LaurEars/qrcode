@@ -1,0 +1,5 @@
+# Generated QR codes and sign images
+*.png
+
+# Shell runners may hold secrets; add intentionally with `git add -f`
+*.sh
