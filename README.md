@@ -1,5 +1,7 @@
 # qrcode
 
+<img src="repo_qr.png" alt="QR code linking to this repo" width="140" align="right">
+
 Small scripts for generating QR codes as PNGs — plain URL codes, Wi-Fi join codes, and a printable Wi-Fi sign.
 
 The scripts run via [uv](https://docs.astral.sh/uv/) (dependencies are declared inline, so there's nothing to install first).
